@@ -1,6 +1,6 @@
 /* styling */
 :root {
-  --primary: #9a86f5;
+  --primary: #ffffff;
   --secondary: #6256d0;
   --tertiary: #2d183b;
   --light-dark: #5e437c;
@@ -14,7 +14,7 @@
 }
 
 body {
-  background-color: var(--primary);
+  background-image: linear-gradient(to bottom right, rgb(186, 169, 214), rgb(51, 39, 61));
   margin: 0;
   padding: 0;
   font-family: "Sora", sans-serif;
@@ -48,7 +48,7 @@ main {
 
 a {
   text-decoration: none;
-  color: rgb(86, 159, 169);
+  color: rgb(125, 86, 169);
 }
 
 p {
