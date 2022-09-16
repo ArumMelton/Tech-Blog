@@ -1,11 +1,12 @@
 /* styling */
 :root {
-  --primary: #ccdad1;
-  --secondary: #9caea9;
-  --tertiary: #788585;
-  --light-dark: #6f6866;
-  --dark: #38302e;
+  --primary: #9a86f5;
+  --secondary: #6256d0;
+  --tertiary: #2d183b;
+  --light-dark: #5e437c;
+  --dark: #2f2649;
   --border-radius: 0.3rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 * {
