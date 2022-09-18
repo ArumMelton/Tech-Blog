@@ -11,7 +11,7 @@ if (process.env.JAWSDB_URL) {
   sequelize = new Sequelize(
     process.env.DB_NAME,
     process.env.DB_USER,
-    process.env.DB_PASSWORD,
+    "LogicProX10!",
     {
       host: "localhost",
       dialect: "mysql",
