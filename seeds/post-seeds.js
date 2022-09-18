@@ -8,7 +8,7 @@ const postData = [
       "Are you getting burnt out? Take these steps to ensure you stay on your game. ",
     created_at: "2022-09-16T18:08:06.000Z",
     user: {
-      username: "",
+      username: "Melt",
     },
   },
   {
@@ -17,7 +17,7 @@ const postData = [
     post_text: "I think I like things that are a bit more creative.",
     created_at: "2022-09-16T18:03:20.000Z",
     user: {
-      username: "",
+      username: "Christian",
     },
   },
 ];

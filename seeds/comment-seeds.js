@@ -8,9 +8,6 @@ const commentData = [
     post_id: 8,
     createdAt: "2022-09-16T18:03:30.000Z",
     updatedAt: "2022-09-16T18:03:30.000Z",
-    user: { 
-     username: "DaColdest",
-    },
   },
   {
     id: 5,
@@ -19,9 +16,6 @@ const commentData = [
     post_id: 9,
     createdAt: "2022-09-16T18:06:03.000Z",
     updatedAt: "2022-09-16T18:06:03.000Z",
-    user: {
-      username: "2EvaDuit",
-    },
   },
   
 ];
